@@ -4,3 +4,4 @@ commit conflito1
 conflaitu
 commit release
 commit hotfix
+commit hotfix2
