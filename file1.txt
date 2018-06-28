@@ -3,3 +3,4 @@ commit feature1
 commit conflito1
 conflaitu
 commit release
+commit hotfix
