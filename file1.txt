@@ -1,3 +1,4 @@
 file1
 commit feature1
 commit conflito1
+conflaitu
